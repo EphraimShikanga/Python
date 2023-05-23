@@ -1,3 +1,5 @@
+#!\C:\Python\python.exe
+
 import subprocess
 import sys
 
