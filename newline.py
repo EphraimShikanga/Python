@@ -1,0 +1,1 @@
+print("\"Hello followed by new line\"")
