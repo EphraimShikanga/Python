@@ -1,3 +1,7 @@
+# SCT211-0077/2022
+# Ephraim Shikanga
+
+
 class Calculator:
     def __init__(self):
         self.num1 = None
